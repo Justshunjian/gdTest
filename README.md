@@ -1,2 +1,1 @@
-# gdTest
-php gd 
+PHP GD库 学习项目
